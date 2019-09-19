@@ -1,0 +1,85 @@
+Return-Path: <bounce-452-3731204-860-248@fskar.top>
+Delivered-To: contact@andreinicholson.com
+Received: from arcade.andreinicholson.com
+	by arcade.andreinicholson.com with LMTP id GFtAC0ljFFzyNgAAuZr9XQ
+	for <contact@andreinicholson.com>; Fri, 14 Dec 2018 21:13:29 -0500
+Received-SPF: Pass (mailfrom) identity=mailfrom; client-ip=116.85.36.7; helo=server1.domain.com; envelope-from=bounce-452-3731204-860-248@fskar.top; receiver=<UNKNOWN> 
+Authentication-Results: arcade.andreinicholson.com; dmarc=none (p=none dis=none) header.from=lds.com
+Received: from server1.domain.com (unknown [116.85.36.7])
+	by arcade.andreinicholson.com (Postfix) with ESMTP id EBB5511942D
+	for <webmaster@neo-anime.org>; Fri, 14 Dec 2018 21:13:27 -0500 (EST)
+Received: by server1.domain.com id h2hhke0e97c5 for <webmaster@neo-anime.org>; Sat, 15 Dec 2018 10:13:06 +0800 (envelope-from <bounce-452-3731204-860-248@fskar.top>)
+Date: Sat, 15 Dec 2018 08:48:23 +0800
+To: "webmaster@neo-anime.org" <webmaster@neo-anime.org>
+From: aliba <adsa@lds.com>
+Reply-to: aliba <adsa@lds.com>
+Subject: =?utf-8?B?5bCK5pWs55qE5pSv5LuY5a6d5Lya5ZGY77yM5oKo5bey6I635b6X6Iqx5ZGX?=
+ =?utf-8?B?57qi5YyF5pyA6auYOTnmiZPlvIDmlK/ku5jlrp3miavnoIHpooblj5bliLDl?=
+ =?utf-8?B?rp7kvZPlupfmtojotLnvvIzlhYPml6blj6/nk5zliIbmlK/ku5jlrp0xNeS6?=
+ =?utf-8?B?v+eOsOmHkee6ouWMhe+8gQ==?=
+Message-ID: <877fd03e9838a4ddb3fa3ab007d464b5@10.255.0.217>
+X-Priority: 3
+X-Mailer: Email Sending System
+X-Complaints-To: adsa@lds.com
+List-Unsubscribe: <http://116.85.36.7/oem/u.php?p=ru/rs/evu/rw/ru/rs>
+X-MessageID: Mnx8fHwxODI5MHx8fHx3ZWJtYXN0ZXJAbmVvLWFuaW1lLm9yZ3x8fHw0fHx8fDF8fHx8MA%3D%3D
+X-Report-Abuse: <http://116.85.36.7/oem/report_abuse.php?mid=Mhx8fHwxODI5MHx8fHx3ZWJtYXN0ZXJAbmVvLWFuaW1lLm9yZ3x8fHw0fHx8fDF8fHx8MA%3D%3D>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=9.6 required=7.0 tests=DCC_CHECK,DIGEST_MULTIPLE,
+	HEADER_FROM_DIFFERENT_DOMAINS,HTML_IMAGE_ONLY_08,HTML_IMAGE_RATIO_02,
+	HTML_MESSAGE,LIST_PARTIAL_SHORT_MSG,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP,
+	PYZOR_CHECK,SPF_PASS,UNPARSEABLE_RELAY,URIBL_BLOCKED,URIBL_CSS,
+	URIBL_CSS_A autolearn=no autolearn_force=no version=3.4.2
+X-Spam-Report: 
+	*  0.1 URIBL_CSS_A Contains URL's A record listed in the Spamhaus CSS
+	*      blocklist
+	*      [URIs: 116.85.36.7]
+	*  0.1 URIBL_CSS Contains an URL's NS IP listed in the Spamhaus CSS
+	*      blocklist
+	*      [URIs: 116.85.36.7]
+	* -0.0 SPF_PASS SPF: sender matches SPF record
+	*  0.1 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+	*      mail domains are different
+	*  0.0 NORMAL_HTTP_TO_IP URI: URI host has a public dotted-decimal
+	*      IPv4 address
+	*  1.8 HTML_IMAGE_ONLY_08 BODY: HTML: images with 400-800 bytes of
+	*      words
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.8 HTML_IMAGE_RATIO_02 BODY: HTML has a low ratio of text to image
+	*       area
+	*  1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  1.1 DCC_CHECK Detected as bulk mail by DCC (dcc-servers.net)
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was
+	*      blocked.  See
+	*      http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: 116.85.36.7]
+	*  2.0 PYZOR_CHECK Listed in Pyzor
+	*      (https://pyzor.readthedocs.io/en/latest/)
+	*  0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay
+	*      lines
+	*  0.0 DIGEST_MULTIPLE Message hits more than one network digest check
+	*  2.5 LIST_PARTIAL_SHORT_MSG Incomplete mailing list headers + short
+	*      message
+X-Spam-Level: *********
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	arcade.andreinicholson.com
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Untitled document</title>
+</head>
+<body>
+<img src=3D"http://116.85.36.7/oem/image_viewer.php?p=3jTlukaWjJRD0xfHx8fFV=
+zZXJJRD0x" width=3D"280" height=3D"388" />
+
+<img src=3D"http://116.85.36.7/oem/to.php?p=3Dru/ru/rs/evq/rw/rs" width=3D"=
+5" height=3D"2" alt=3D".">
+
+</body>
+</html>

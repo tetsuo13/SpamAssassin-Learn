@@ -1,0 +1,29 @@
+Received: from arcade.andreinicholson.com
+	by arcade.andreinicholson.com with LMTP id +Cs2MnrQmlwWOwAAuZr9XQ
+	for <contact@andreinicholson.com>; Tue, 26 Mar 2019 21:23:06 -0400
+Received: by arcade.andreinicholson.com (Postfix, from userid 0)
+	id C48EE119BD1; Tue, 26 Mar 2019 21:23:06 -0400 (EDT)
+From: "Cron Daemon" <root@arcade.andreinicholson.com>
+To: <root@arcade.andreinicholson.com>
+Subject: Cron <root@arcade> /etc/cron.d/beatles_sa_learn.py
+Date: Tue, 26 Mar 2019 21:23:06 -0400
+Message-ID: <20190327012306.C48EE119BD1@arcade.andreinicholson.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 16.0
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <VENV_PATH=/opt/letsencrypt/.venv>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+Thread-Index: AQKDNY+1HaKgMVXRvLcqBCPuiZW4ug==
+X-OlkEid: 0000000099D9648926889A45B2A8E8150D8C82510123C3B68E10F77511CEB4CD00AA00BBB6E600010000000B0000423A00C137EDAB4EB889BDD643D94B12000000003A3C0000ED39D7553595BA4C9D88C99B69043DDC
+
+Learned tokens from 1 message(s) (1 message(s) examined)
+Learned tokens from 1 message(s) (1 message(s) examined)
+Learned tokens from 1 message(s) (1 message(s) examined)
+Learning MessageType.SPAM for contact@andreinicholson.com
+Learning MessageType.SPAM for bison@cotton.net
+Learning MessageType.SPAM for bison@cotton.net

