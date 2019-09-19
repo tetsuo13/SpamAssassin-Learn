@@ -1,4 +1,6 @@
-# SpamAssassin Learn [![Actions Status](https://github.com/tetsuo13/SpamAssassin-Learn/workflows/Continuous integration/badge.svg)](https://github.com/tetsuo13/SpamAssassin-Learn/actions)
+# SpamAssassin Learn
+
+[![Actions Status](https://github.com/tetsuo13/SpamAssassin-Learn/workflows/Continuous integration/badge.svg)](https://github.com/tetsuo13/SpamAssassin-Learn/actions)
 
 SpamAssassin Learn is a script designed to work with [SpamAssassin](https://spamassassin.apache.org/) and the associated Bayesian classifier trainer, [sa-learn](https://spamassassin.apache.org/full/3.4.x/doc/sa-learn.html). It's purpose is to periodically scan two specific directories, one that contains spam messages and another ham, for all email accounts on a server. That function alone can be reproduced using a Bash script using several `for` loops however SpamAssassin Learn takes it a bit further.
 
